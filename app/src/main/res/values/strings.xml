@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ukGit</string>
+    <string name="change_text_in_textfeld">change text in textfeld</string>
 </resources>
